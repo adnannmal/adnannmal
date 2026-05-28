@@ -4,21 +4,25 @@
 
 # Hey, I'm Adnan Malik 👋
 
-### `console.log("Welcome to my portfolio terminal.")`
+### `console.log("Welcome to my github terminal.")`
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=0ea5e9)
+[![Email](https://img.shields.io/badge/adnanmalikk118@gmail.com%20Me-red?style=flat-square&logo=gmail&logoColor=white)](mailto:adnanmalikk118@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Adnan%20Malik-0ea5e9?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-malik1/)
+![Profile Views](https://komarev.com/ghpvc/?username=adnannmal&style=flat-square&color=0ea5e9)
 ![Focus](https://img.shields.io/badge/Focus-Computer%20Engineering-0ea5e9?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Building%20Projects-111827?style=flat-square)
 
 </div>
 
 ---
 
-<p align="center">
-  <b><i>"Build with purpose. Learn through failure. Improve every version."</i></b>
-</p>
+## 📓 Engineering Build Log
 
----
+| Area | What I’m Improving |
+|---|---|
+| ⚡ Hardware | Current sensing, voltage monitoring, and contactor control |
+| 🧠 Firmware | ESP32 logic, calibration, and real-time measurements |
+| 🌐 Software | Dashboards, backend APIs, and project deployment |
+| 🛠️ Design | Cleaner PCBs, better documentation, and polished demos |
 
 ## 💻 Technologies I Work With
 
@@ -49,16 +53,15 @@
 
 ```cpp
 class AdnanMalik {
-  string role = "Computer Engineering Student";
-  string current_focus = "Embedded Systems, IoT, and Smart Hardware";
+  string role = "Computer Engineering Student @ Hofstra University | Production Technician @ tech5USA";
+  string current_focus = "Embedded Systems, IoT, and Hardware";
   string mindset = "Build, test, debug, improve.";
 
   vector<string> interests = {
     "ESP32 Projects",
     "Circuit Design",
-    "Smart Breaker Systems",
+    "High Voltage",
     "PCB Design",
-    "Web Development",
-    "Cybersecurity Tools"
+    "Power Systems",
   };
 };
